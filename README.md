@@ -1,59 +1,22 @@
-# MyAngularApp
+# KeepMe
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.9.
+The **KeepMe** project is a web application designed to connect individuals with service providers, particularly in the fields of babysitting, pet-sitting, and elderly care. This platform aims to provide a secure, reliable, and easy-to-use online space that allows families to quickly find trusted providers and enables sitters to efficiently manage their tasks.
 
-## Development server
+## Key Features
 
-To start a local development server, run:
+The KeepMe web application includes the following essential features:
+
+- User registration and authentication
+- Provider search
+- Request sending and management
+- Secure payment
+- Ratings and reviews
+- Reporting and support
+- Profile and history management
+
+## Development
+
+To start the local development server:
 
 ```bash
 ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
